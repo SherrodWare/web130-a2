@@ -1,0 +1,14 @@
+/*.hello {
+   @include transform(rotate(-5deg));
+    background-color: $pink;
+    color: $maroon;
+    padding: 40px;
+    font-family: "Helvetica Neue", Sans-Serif;
+}*/
+@media screen and (max-width: 39.9em) {
+  article {
+    -webkit-columns: 2;
+    -moz-columns: 2;
+    columns: 2; } }
+
+/*# sourceMappingURL=app.css.map */
